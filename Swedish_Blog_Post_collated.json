@@ -1,5 +1,5 @@
 {
-    "count": 6,
+    "count": 11,
     "next": null,
     "previous": null,
     "results": [
@@ -32,6 +32,13 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/94072917-130c-465e-9f78-6a9c1c1fbf31_sv_Female.mp4"
         },
         {
+            "id": "c02bffa9-4c62-4ab4-9472-2d64559504aa",
+            "collectionId": "Swedish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/c02bffa9-4c62-4ab4-9472-2d64559504aa_sv_Male.mp4"
+        },
+        {
             "id": "67eb573a-961f-4537-8cea-03aa37171303",
             "collectionId": "Swedish",
             "type": "Blog_Post",
@@ -39,11 +46,39 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/67eb573a-961f-4537-8cea-03aa37171303_sv_Female.mp4"
         },
         {
+            "id": "92db4b94-181b-4658-920b-b0625649e5f4",
+            "collectionId": "Swedish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/92db4b94-181b-4658-920b-b0625649e5f4_sv_Female.mp4"
+        },
+        {
             "id": "aa638bc4-0a70-4e13-922a-556facbde16b",
             "collectionId": "Swedish",
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/aa638bc4-0a70-4e13-922a-556facbde16b_sv_Female.mp4"
+        },
+        {
+            "id": "73540eda-ee87-451c-b619-ca49fbacafea",
+            "collectionId": "Swedish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/73540eda-ee87-451c-b619-ca49fbacafea_sv_Male.mp4"
+        },
+        {
+            "id": "01a048e2-81ef-41bf-b441-0d199ca4027f",
+            "collectionId": "Swedish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/01a048e2-81ef-41bf-b441-0d199ca4027f_sv_Male.mp4"
+        },
+        {
+            "id": "3a22da5f-43fe-4ae2-af33-1bc376bfce0f",
+            "collectionId": "Swedish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Swedish/3a22da5f-43fe-4ae2-af33-1bc376bfce0f_sv_Male.mp4"
         }
     ]
 }
